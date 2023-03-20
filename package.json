@@ -1,7 +1,7 @@
 {
   "name": "vue-hello-world-simple-lahiru",
   "description": "A simple vuejs Hello World plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "author": {
     "name": "Lahiru Kahawatta",
@@ -9,12 +9,16 @@
   },
   "repository": "https://github.com/LahiruQualitapps/vue-hello-world-sample",
   "bugs": "https://github.com/LahiruQualitapps/vue-hello-world-sample/issues",
-  "keywords": ["keywords", "go", "here"],
+  "keywords": [
+    "keywords",
+    "go",
+    "here"
+  ],
   "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build-library" : "vue-cli-service build --target lib --name vue-hello-world-simple ./src/install.js",
+    "build-library": "vue-cli-service build --target lib --name vue-hello-world-simple ./src/install.js",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
@@ -50,7 +54,7 @@
     "not dead",
     "not ie 11"
   ],
-  "main" : ".dist/vue-hello-world-simple.common.js",
+  "main": ".dist/vue-hello-world-simple.common.js",
   "files": [
     "dist/*",
     "src/*",
