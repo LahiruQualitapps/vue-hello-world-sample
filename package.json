@@ -1,8 +1,8 @@
 {
-  "name": "vue-hello-world-simple",
+  "name": "vue-hello-world-simple-lahiru",
   "description": "A simple vuejs Hello World plugin",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "author": {
     "name": "Lahiru Kahawatta",
     "email": "lahiru.kahawatta@qualitapps.com"
