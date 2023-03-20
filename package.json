@@ -56,10 +56,6 @@
   ],
   "main": ".dist/vue-hello-world-simple.common.js",
   "files": [
-    "dist/*",
-    "src/*",
-    "public/*",
-    "*.json",
-    "*.js"
+    "dist"
   ]
 }
