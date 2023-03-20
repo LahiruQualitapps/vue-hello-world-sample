@@ -1,7 +1,7 @@
 {
   "name": "vue-hello-world-simple-lahiru",
   "description": "A simple vuejs Hello World plugin",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "private": false,
   "author": {
     "name": "Lahiru Kahawatta",
